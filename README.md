@@ -39,6 +39,12 @@ Nutrition information is collected from validated food composition databases, pr
 
 - USDA FoodData Central
 
+## Technologies & Tools
+
+- Microsoft Excel / CSV for structured nutrition data management
+- USDA FoodData Central for nutritional reference data
+- GitHub for version control and project documentation
+- 
 ## Future Development
 
 Planned future extensions:
@@ -51,4 +57,11 @@ Planned future extensions:
 
 ## Author
 
-Independent Digital Health Project
+Iqra Azhar Mahboob
+
+Independent Digital Health Project focused on:
+
+- Digital Health
+- Healthcare Data Management
+- Nutrition Informatics
+- Diabetes Self-Management Support
