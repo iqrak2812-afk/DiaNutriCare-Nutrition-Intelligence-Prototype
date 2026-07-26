@@ -1,0 +1,11 @@
+﻿Food_ID,Food_Name,Category,Serving_Size_Description,Serving_Size_g,Calories_kcal,Carbs_g,Sugar_g,Fiber_g,Protein_g,Fat_g,Source,Source_Reference
+1,"Bread, chapati or roti, plain, commercially prepared",Bread,100 g,100,297,46.4,2.72,4.9,11.2,7.45,S1,NDB 28306 / FDC ID 171844
+2,"Rice, white, long-grain, regular, unenriched, cooked without salt",Rice & Starches,100 g,100,130,28.2,0.05,0.4,2.69,0.28,S1,NDB 20445 / FDC ID 169757
+3,"Masoor Daal (Lentils, mature seeds, cooked, boiled, without salt)",Legumes,100 g ,100,116,20.1,1.8,7.9,9.02,0.38,S1,NBD 16070 / FDC ID 172421
+4,"Grilled Chicken Breast (Chicken, broiler or fryers, breast, skinless, boneless, meat only, cooked, grilled)",Protein Foods,100 g,100,151,0,0,0,30.5,3.17,S1,NDB 5747 / FDC ID 171534
+5,"Egg, whole, cooked, hard-boiled",Protein Foods,100 g,100,155,1.12,1.12,0,12.6,10.6,S1,NDB 1129 / FDC ID 173424
+6,"Yogurt, plain, whole milk",Dairy,100 g,100,61,4.66,4.66,0,3.47,3.25,S1,NDB 1116 / FDC ID 171284
+7,"Bhindi (Okra, cooked, boiled, drained, without salt)",Vegetables,100 g,100,22,4.51,2.4,2.5,1.87,0.21,S1,NDB 11279 / FDC ID 169261
+8,"Saag (Mustard greens, cooked, boiled, drained, without salt)",Vegetables,100 g,100,26,4.51,1.41,2,2.56,0.47,S1,NDB 11271 / FDC ID 169257
+9,"Apples, raw, without skin",Fruits,100g,100,48,12.8,10.1,1.3,0.27,0.13,S1,NDB 9004 / FDC ID 171689
+10,"Bananas, raw",Fruits,100g,100,89,22.8,12.2,2.6,1.09,0.33,S1,NDB 9040 / FDC ID 173944
