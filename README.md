@@ -44,7 +44,20 @@ Nutrition information is collected from validated food composition databases, pr
 - Microsoft Excel / CSV for structured nutrition data management
 - USDA FoodData Central for nutritional reference data
 - GitHub for version control and project documentation
-- 
+
+## Project Management
+
+Project management activities conducted during the development of DiaNutriCare included:
+
+- Scope definition
+- Requirements analysis
+- Functional and non-functional requirements documentation
+- Work Breakdown Structure (WBS)
+- Scope verification
+- Scope change control
+
+For details, see the Project Management folder.
+
 ## Future Development
 
 Planned future extensions:
